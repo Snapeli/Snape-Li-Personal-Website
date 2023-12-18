@@ -7,7 +7,7 @@ body {
 
 @font-face {
     font-family: 'chinese-piexl';
-    src: url('/Users/snape/Desktop/CSS-My Site/fonts/unifontex-font/Unifontexmono-AL3RA.ttf') format('truetype');
+    src: url('fonts/unifontex-font/Unifontexmono-AL3RA.ttf') format('truetype');
 }
 
 h1 {
