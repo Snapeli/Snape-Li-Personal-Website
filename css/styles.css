@@ -69,7 +69,7 @@ hr {
 
 .ground {
     position: absolute;
-    max-width: 100%;
+    width: 100%;
     bottom: 0%;
     left: 0%;
 }
@@ -98,7 +98,7 @@ hr {
 .skills h2 {
     font-family: 'Pixelify Sans', sans-serif;
    
-    margin:auto 35% 12% 35% ;
+    margin:auto 25% 12% 25% ;
     background-color: #bbd6fb;
     color: #FBF6EE;
 }
