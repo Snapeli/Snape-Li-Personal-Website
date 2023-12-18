@@ -69,9 +69,8 @@ hr {
 
 .ground {
     position: absolute;
-    max-width: 60%;
+    max-width: 100%;
     bottom: 0%;
-    left: 20%;
 }
 
 .intro {
